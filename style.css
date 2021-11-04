@@ -9,6 +9,19 @@ p {
     font-size: 20px;
 }
 
+.wrapper {
+    text-align: center;
+}
+
+button {
+    /* position: absolute; */
+    color: darkblue;
+    border-style: none;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
 .sideNav {
     height: 100%;
     width: 0;
