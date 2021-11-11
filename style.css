@@ -14,8 +14,7 @@ p {
 }
 
 button {
-    /* position: absolute; */
-    color: darkblue;
+    color: rgb(3, 3, 83);
     border-style: none;
     font-size: 20px;
     border-radius: 10px;
